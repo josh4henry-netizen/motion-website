@@ -25,8 +25,8 @@ A modern, responsive portfolio website showcasing my work as a Full-Stack Develo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/balshaer/alshaer.git
-   cd alshaer
+   git clone https://github.com/opio/joshua.git
+   cd joshua
    ```
 
 2. **Install dependencies**
@@ -101,9 +101,9 @@ Update your portfolio by editing the data files in `src/data/`:
 ## Contact
 
 - **Email**: josh4henry@gmail.com
-- **LinkedIn**: [linkedin.com/in/balshaer](https://linkedin.com/in/opio.joshua)
+- **LinkedIn**: [linkedin.com/in/opiojoshua](https://linkedin.com/in/opio.joshua)
 - **GitHub**: [github.com/opio joshua]((https://github.com/josh4henry)
-- **Portfolio**: [alshaer.vercel.app](https://opio.joshua.app)
+- **Portfolio**: [joshua.vercel.app](https://opio.joshua.app)
 
 ---
 
